@@ -1,4 +1,4 @@
-# _Protocolo iBUS_
+# _Telemetria i-BUS para ESP32 ESP-IDF_
 
 ![Firmware version](https://img.shields.io/badge/Firmware_version-1.0.0-blue)
 
@@ -21,7 +21,7 @@
 
 | Versão | Data       | Autor         | Descrição          |
 |--------|------------|---------------|--------------------|
-| 1.0.0  | 11/07/2025 | Adenilton R   | Inicio do projeto  |
+| 1.0.0  | 21/07/2025 | Adenilton R   | Inicio do projeto  |
 
 ---
 
@@ -81,13 +81,13 @@ Esquemático da ligação:
 
 ## Bibliotecas
 
-[main.c](https://github.com/AdeniltonR/Firmware-para-IDF-Espressif/blob/main/ESP-IDF/protocolo-ibus/main/main.c)
+[main.c](https://github.com/AdeniltonR/ESP32-iBUS-Telemetria/blob/main/main/main.c)
 
-[ibus.c](https://github.com/AdeniltonR/Firmware-para-IDF-Espressif/blob/main/ESP-IDF/protocolo-ibus/components/ibus/ibus.c)
+[ibus.c](https://github.com/AdeniltonR/ESP32-iBUS-Telemetria/blob/main/components/ibus/ibus.c)
 
-[ibus.h](https://github.com/AdeniltonR/Firmware-para-IDF-Espressif/blob/main/ESP-IDF/protocolo-ibus/components/ibus/include/ibus.h)
+[ibus.h](https://github.com/AdeniltonR/ESP32-iBUS-Telemetria/blob/main/components/ibus/include/ibus.h)
 
-[CMakeLists.txt](https://github.com/AdeniltonR/Firmware-para-IDF-Espressif/blob/main/ESP-IDF/protocolo-ibus/components/ibus/CMakeLists.txt)
+[CMakeLists.txt](https://github.com/AdeniltonR/ESP32-iBUS-Telemetria/blob/main/components/ibus/CMakeLists.txt)
 
 ### Radio Controle
 
